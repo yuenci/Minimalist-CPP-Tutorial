@@ -10,6 +10,8 @@
 
 # Minimalist-CPP-Tutorial
 
+![img](image/titleShadow-768x256.png)
+
 This is a minimalist C++ tutorial designed to help beginners grasp the fundamentals of the programming language.
 
 
@@ -64,3 +66,10 @@ Structures are used to group variables of different data types under a single na
 ## Conclusion
 
 Congratulations, you've completed this minimalist C++ tutorial! We hope this tutorial has provided you with the foundational knowledge you need to start writing simple C++ programs.
+
+
+
+## Acknowledgments
+
+* [Codecademy](https://www.codecademy.com/learn/c-plus-plus-for-programmers/modules/getting-started-with-c-plus-plus/cheatsheet)
+* [geeksforgeeks](https://www.geeksforgeeks.org/c-plus-plus/)
