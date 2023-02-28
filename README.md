@@ -49,7 +49,7 @@ Control flow refers to the order in which statements in a program are executed. 
 
 Functions are a fundamental part of C++ programming. They are used to perform specific tasks and can be called from other parts of the program. In this tutorial, we will learn how to define and call functions in C++.
 
-[> Learn now!](https://github.com/yuenci/Minimalist-CPP-Tutorial/blob/main/tutorial/4.Functions%20.md)
+[> Learn now!](https://github.com/yuenci/Minimalist-CPP-Tutorial/blob/main/tutorial/4.Functions.md)
 
 ## Object-Oriented Programming in C++
 
