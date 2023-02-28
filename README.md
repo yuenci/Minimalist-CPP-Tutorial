@@ -1,7 +1,7 @@
 ```JavaScript
 /*
  * @Author: Yu Enci
- * @Description: The Notes of the level 1 semester 2 IDB lab
+ * @Description: CPP quickstart tutorial for APU DSTR
  * @Date: 2023-02-28 00:26:25
  * @LastEditTime: 2023-02-28 19:35:25
  * @FilePath: E:\Code Everyday\2023-02\0228-Minimalist-CPP-Tutorial
