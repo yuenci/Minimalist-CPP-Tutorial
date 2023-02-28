@@ -31,7 +31,7 @@ This is a minimalist C++ tutorial designed to help beginners grasp the fundament
 
 To get started with C++, you need to have a C++ compiler installed on your computer. You can download a compiler such as [Visual Studio](https://visualstudio.microsoft.com/downloads/) or [Code::Blocks](http://www.codeblocks.org/downloads/binaries) for free.
 
-`> Learn now!`
+[Learn now!](./tutorial/1.Getting Started.md)
 
 ## Basic Syntax in C++
 
