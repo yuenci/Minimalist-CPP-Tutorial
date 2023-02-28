@@ -24,6 +24,7 @@ This is a minimalist C++ tutorial designed to help beginners grasp the fundament
 - Functions in C++
 - Object-Oriented Programming in C++
 - C++'s Built-In Data Structures
+- File operations and modularize in C++
 
 
 
@@ -63,7 +64,7 @@ Structures are used to group variables of different data types under a single na
 
 [> Learn now!](https://github.com/yuenci/Minimalist-CPP-Tutorial/blob/main/tutorial/6.Built-In%20Data%20Structures.md)
 
-## 7. File and modularize
+## 7. File operations and modularize in C++
 
 We will learn basic file reading and writing operations, as well as how to create and import modules from different files, such as functions, classes, etc.
 
